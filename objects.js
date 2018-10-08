@@ -1,3 +1,3 @@
 var playlist = {
-  artist: 'song title'
+  Paper Tongues: 'Ride To California'
 }
