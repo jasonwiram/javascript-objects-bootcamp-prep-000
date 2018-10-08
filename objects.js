@@ -1,3 +1,3 @@
 var playlist = {
-  Paper Tongues: 'Ride To California'
+  'Paper Tongues': 'Ride To California'
 }
